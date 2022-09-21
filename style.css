@@ -33,10 +33,6 @@ body {
     border-radius: 5px;
 }
 
-.list__button__white {
-    left: 21.43%;
-    right: 21.43%;
-    top: 26.8%;
-    bottom: 25.01%;
+.list__button__white, .list__button__done {
     color: #FFFFFF;
 }
