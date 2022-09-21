@@ -40,3 +40,13 @@ body {
 .list__item {
     display: flex;
 }
+
+.strike {
+    text-decoration: line-through;
+    color: #d1d1d1;
+    }
+
+.item {
+    padding: 20px;
+    margin: 10px;
+}
