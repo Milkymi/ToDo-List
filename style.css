@@ -36,3 +36,7 @@ body {
 .list__button__white, .list__button__done {
     color: #FFFFFF;
 }
+
+.list__item {
+    display: flex;
+}
